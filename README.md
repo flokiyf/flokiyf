@@ -2,7 +2,7 @@
 
 🚀 AI & Full Stack Developer based in Sudbury, Ontario (🇨🇦)  
 🎓 Graduate in Computer Systems – Collège Boréal & University of Lomé  
-🧠 Passionate about AI, intelligent automation, cognitive agents, and SaaS solutions
+🧠 Passionate about AI, intelligent automation, cognitive agents, and SaaS solutions.
 
 ---
 
