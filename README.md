@@ -17,7 +17,7 @@
 - 📫 How to reach me: [flokiyf@gmail.com](mailto:flokiyf@gmail.com) | [LinkedIn](https://www.linkedin.com/in/florentin-kassegni)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: **Coding is not just my job — it's my passion.** I literally spend most of my time building, automating, and exploring what AI can do.
-
+https://florentinkassegninporfolio.vercel.app
 ---
 
 ## 🧩 What I Do
